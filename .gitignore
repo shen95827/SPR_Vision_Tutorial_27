@@ -4,3 +4,9 @@
 tutorial_1/example/cmake/build/
 tutorial_2/example/opencv/build/
 tutorial_2/example/opencv/result.png
+
+build/
+*.o
+*.a
+*.so
+hello
