@@ -1,0 +1,3 @@
+/home/rsve/learngit/SPR_Vision_Tutorial_27/cmake-demo/build/CMakeFiles/hello.dir
+/home/rsve/learngit/SPR_Vision_Tutorial_27/cmake-demo/build/CMakeFiles/edit_cache.dir
+/home/rsve/learngit/SPR_Vision_Tutorial_27/cmake-demo/build/CMakeFiles/rebuild_cache.dir
